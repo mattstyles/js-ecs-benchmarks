@@ -14,3 +14,4 @@ export { default as PicoesLibrary } from './lib-picoes';
 export { default as WolfEcsLibrary } from './lib-wolf-ecs';
 export { default as PiecsLibrary } from './lib-piecs';
 export { default as HarmonyEcsLibrary } from './lib-harmony-ecs';
+export { default as EEVLibrary } from './lib-eev';
